@@ -10,8 +10,17 @@ body{
     font-family: 'Raleway', sans-serif;
 }
 
+h2,h3,h4{
+  color: #000;
+  font-weight: bold;
+}
+
 img{
     max-width: 100%;
+}
+
+ul{
+  color: #000
 }
 
 input[type="checkbox"] {
@@ -69,6 +78,7 @@ input[type="checkbox"]:disabled {
     top: 0;
     right: 0;
     z-index: 999;
+
 }
 
 .page-menu .toggle{position: absolute;top: 0;right: 0;
@@ -96,6 +106,7 @@ input[type="checkbox"]:disabled {
 
 .page-menu .content.active{
     display: block;
+    border-bottom: 2px solid #fff;
 }
 
 .page-menu .content .header{
@@ -111,13 +122,15 @@ input[type="checkbox"]:disabled {
 
 .page-menu .content .menu{
     overflow: hidden;
-    border-bottom: 1px solid #ffffff0d;
+    border-bottom: 2px solid #ffffff;
+    padding: 0 20px;
+    margin-bottom: 20px;
 }
 
 .page-menu .content .menu .item{
-    width: 33.33%;
+    /*width: 33.33%;*/
     float: left;
-    padding: 1.3em 0;
+    padding: 1.3em 1em;
 }
 
 .page-menu .content .menu .item a{
@@ -129,12 +142,15 @@ input[type="checkbox"]:disabled {
 
 .page-menu .content .menu .item a:hover{}
 
-.page-menu .content .data-items{overflow: hidden;}
+.page-menu .content .data-items{
+  overflow: hidden;
+  padding: 0 20px
+}
 
 .page-menu .content .data-items .item{
     float: left;
     width: 50%;
-    min-height: 12em;
+    min-height: 8em;
     overflow: hidden;
     border-bottom: 1px solid #ffffff0d;
 }
@@ -153,7 +169,7 @@ input[type="checkbox"]:disabled {
 .page-menu .content .data-items .item .data{
     width: 60%;
     float: left;
-    padding: 2.8em 0 0 2em;
+    padding: 0 0 0 1em;
 }
 
 .page-menu .content .data-items .item .data .tag{}
@@ -483,13 +499,29 @@ input[type="checkbox"]:disabled {
     padding: 4em 12em;
 }
 
+.page-news .wrap-content .news-post2{
+    padding: 1em 12em;
+}
+
 .page-news .wrap-content .news-post p{
     color: #000;
     font-size: 0.9em;
     line-height: 1.78em;
 }
 
+.page-news .wrap-content .news-post2 p{
+    color: #000;
+    font-size: 0.9em;
+    line-height: 1.78em;
+}
+
 .page-news .wrap-content .news-post p.first:first-letter{
+    color:  #A2F37C;
+    font-size: 6em;
+    position: relative;
+}
+
+.page-news .wrap-content .news-post2 p.first:first-letter{
     color:  #A2F37C;
     font-size: 6em;
     position: relative;

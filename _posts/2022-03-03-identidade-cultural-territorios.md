@@ -1,0 +1,53 @@
+---
+layout: post
+title: Influência do jornalismo local na construção da identidade cultural dos territórios
+subtitle: Há quase 10 anos em circulação, o Jornal Cultural é um veículo impresso, distribuído mensalmente no distrito de Perus, que fica na zona noroeste de São Paulo e tem cerca de 80 mil moradores, e no município de Caieiras, que possui 86 mil habitantes
+autores: Jessica Silva (reportagem) / Gisele Alexandre (edição)
+data: 03/03/2021
+imagem_destaque: https://lh3.googleusercontent.com/d/1DxSpf1HSzQg7QyS34zoFskdxU0xpmJv0
+---
+
+“Todo bairro ou cidade precisa de um jornal para contar a história passada e registrar o hoje, com suas lutas, angústias e o dia a dia da comunidade”. É assim que o ativista Paulo Rodrigues dos Santos, 58, idealizador do Jornal Cultural de Perus define a importância do jornalismo local na construção da identidade de um território.
+
+Há quase 10 anos em circulação, o Jornal Cultural é um veículo impresso, distribuído mensalmente no distrito de Perus, que fica na zona noroeste de São Paulo e tem cerca de 80 mil moradores, e no município de Caieiras, que possui 86 mil habitantes. Para o criador do jornal, a comunicação local é um instrumento de extrema importância . “O jornalismo local é fundamental para o desenvolvimento de uma região. E aí, quando eu coloco desenvolvimento não estou falando só econômico ou empresarial, mas também cultural e humanístico”, conta Paulo.
+
+O Jornal Cultural nasceu a partir da necessidade que Paulo tinha em divulgar um projeto pessoal de cultura. “O primeiro jornal tinha quatro páginas e falava do meu projeto cultural que era sobre a Estrada de Ferro Perus de Pirapora que eu estava restaurando junto com outros amigos", lembra.
+
+Na época, Paulo era presidente de uma ONG (Organização Não Governamental) e pedia patrocínio para comerciantes da cidade para imprimir o jornal. “Quando fui receber desses anunciantes, dois meses depois, eles falaram assim: 'Ué, mas o jornal vai ser só um? A gente gostou, deu retorno, deu mídia’. E aí eu parti pro número dois”, explica.
+
+No primeiro ano, foram impressas oito edições e o número foi crescendo. “Não foi uma coisa muito pensada, mas a aceitação vem desse enfoque que a gente dá ao bairro, que respira muita cultura e sobretudo um bairro muito pessoal. A gente dá esse enfoque cultural, além de falar do passado e relembrar histórias antigas”, comenta Paulo.
+
+O jornal tem cerca de 50% de seu conteúdo voltado para cultura, incluindo pautas sobre coletivos da região, memórias do bairro e divulgação de artistas locais. É um dos poucos da região, e tem se mostrado um instrumento importante na construção da identidade territorial de Perus. A edição do mês de setembro deste ano, por exemplo, trouxe a história da
+
+“Comunidade Cultural Quilombaque”, que realizou a celebração de 16 anos de atuação  com uma série de atividades virtuais como sarau, bate-papos e shows online.
+
+> “As pautas chegam por amigos e coletivos culturais. O impacto é percebido nas ruas, quando somos abordados pelos leitores e pelas redes sociais”, diz Paulo.
+
+Do outro lado do mapa, em Mogi das Cruzes, cidade com quase 390 mil habitantes, o cenário é um pouco diferente. No Mapa do Jornalismo Local podem ser encontrados 29 veículos deste território, criados por jornalistas, estudantes e líderes comunitários que ampliam e divulgam informações sobre a cultura local da região.
+
+Leandro Cesaroni, 33, jornalista pós-graduado em jornalismo cultural, é editor-chefe do Notícias de Mogi, um veículo com três anos de atuação no município. De acordo com o jornalista, a produção de conteúdo é feita por meio de uma “ronda” que inclui a verificação em sites e perfis de redes sociais de órgãos públicos, espaços culturais, artistas, coletivos, produtoras, entre outros. “Muitas pautas também chegam até nós por e-mail ou WhatsApp, oriundas dessas mesmas fontes”, explica.
+
+Segundo Cesaroni, a relação do portal com a população local é mantida principalmente por  meio das redes sociais. “Como possuímos uma rede de distribuição de conteúdo por meio do WhatsApp, muitas pessoas nos procuram através do aplicativo para fazer sugestões, elogios e reclamações”, relata.
+
+Para Leandro, o jornalismo local se tornou ainda mais essencial nos últimos anos devido à crescente onda de desinformação. “Em tempos de pandemia, potencializada com pânico e 'fake news', o trabalho do jornalismo local tem ajudado a orientar a população, seja com dados da Covid-19, informações sobre a quarentena e a vacinação ou a respeito de benefícios sociais emergenciais”, diz.
+
+Além disso, “o jornalismo local tem o papel de legitimar, ou não, o que se ouve na vizinhança ou no ‘busão’”, conclui Leandro.
+
+**Identidade Territorial**
+
+No dicionário, identidade significa uma série de características próprias de uma pessoa ou coisa por meio das quais podemos diferenciá-la. A identidade de um território é definida pela sua cultura e o papel do jornalismo local é essencial para sua construção.
+
+O fato de ainda existirem "desertos de notícias" no Brasil, ou seja, municípios que não possuem nenhum veículo de comunicação, faz com que a informação não chegue em determinadas regiões. Esse é um dos fatores que podem negligenciar a construção de uma identidade territorial e, consequentemente, sua visibilidade.
+
+Essa falta de identificação é explícita principalmente em bairros periféricos da região da Grande São Paulo. Como é o caso do distrito de Jundiapeba, periferia da cidade de Mogi das Cruzes. O bairro possui cerca de 80 mil habitantes e conta somente com dois veículos de jornalismo: o Jundiapeba TV e o Jornal de Jundiapeba.
+
+Jonas Alves de Mello de Ferraz, é dono da Jundiapeba TV, página no Facebook que tem mais de 22 mil seguidores.  “A gente realiza, de certa forma, uma distribuição de informações, explicamos de uma forma simbólica e resumida para que todos possam entender", explica Jonas.
+
+A página existe há quatro anos e nasceu a partir de um grupo no Facebook que Jonas tinha com os moradores do bairro há nove anos. “Foi a partir do grupo que eu criei a página, para atrair a geração mais nova”, comenta.
+
+De acordo com Jonas, o fato de existir um veículo de comunicação local faz com que a população se sinta acolhida e reconhecida, já que não há representatividade da região nas matérias produzidas pelos veículos de mídia tradicional. “As mídias convencionais são muito formais, e na maioria das vezes não conseguem se comunicar bem com o público das periferias”, conta.
+
+O contato com o público vai além das redes sociais. Jonas explica que as pessoas o reconhecem nas ruas e param para conversar. “Eu gravo bastante vídeo porque às vezes não dá pra escrever. Trabalho em uma indústria e cuido da página fora do horário comercial”, explica.
+
+O foco na cultura local e a proximidade com os moradores são as principais características da Jundiapeba TV. Além de cuidar da página, Jonas também é guitarrista de uma banda em Mogi e sente na pele a falta de espaço para os artistas locais nos veículos tradicionais.
+“Como artista, a gente vê que tanto a prefeitura, quanto a grande mídia dá muito apoio pra quem já tem uma carreira sólida. Os artistas locais, das periferias, são pouco divulgados, por isso a comunicação local é importante”, finaliza Jonas.

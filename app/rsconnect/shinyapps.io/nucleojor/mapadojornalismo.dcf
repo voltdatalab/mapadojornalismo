@@ -1,0 +1,13 @@
+name: mapadojornalismo
+title: mapadojornalismo
+username:
+account: nucleojor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5591426
+bundleId: 5552744
+url: https://nucleojor.shinyapps.io/mapadojornalismo/
+when: 1644249964.76876
+lastSyncTime: 1644249964.76877
+asMultiple: FALSE
+asStatic: FALSE

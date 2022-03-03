@@ -1,0 +1,55 @@
+<div class="toggle">
+    <button ng-click="toggle_page_menu = !toggle_page_menu;toggle_map_controls = false;">
+        <img src="{{ site.baseurl }}/assets/img/open-menu.svg" />
+    </button>
+</div>
+
+<div class="content" ng-class="{active: toggle_page_menu}">
+
+<!--
+    <div class="header">
+
+        <div class="logo">
+            <img src="{{ site.baseurl }}/assets/img/logo2.svg" />
+        </div>
+
+    </div>
+    -->
+
+    <div class="menu">
+
+      {% for item in site.data.menu %}
+
+        <div class="item">
+            <a href="{{ site.baseurl }}/{{ item.link }}"> {{ item.texto }} </a>
+        </div>
+
+      {% endfor %}
+
+
+    </div>
+
+    <div class="data-items">
+
+      {% for post in site.posts | limit:4 %}
+
+        <div class="item">
+
+          <div class="thumb">
+              <img src="{{ post.imagem_destaque }}" />
+          </div>
+
+            <div class="data">
+                <div class="title">
+                    <a href="{{ post.url }}"> {{ post.title }} </a>
+                </div>
+
+            </div>
+
+        </div>
+
+        {% endfor %}
+
+    </div>
+
+</div>

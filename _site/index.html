@@ -3,459 +3,181 @@
 <head>
 
     <meta charset="utf-8">
-    <title>Tituto</title>
+    <title></title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="./assets/css/style.css">
+    <meta property="og:title" content="" />
+    <meta property="og:description" content="" />
+    <meta property="og:type" content="site" />
+    <meta property="og:url" content="" />
+    <meta property="og:image" content="" />
+
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.1.1/iframeResizer.min.js'></script>
+    <script type="text/javascript">
+
+    								function loadIframe() {
+    								setTimeout(function(){
+    								iFrameResize({
+    								// 'bodyOffset' | 'bodyScroll' | 'documentElementOffset' | 'documentElementScroll' | 'max' | 'min' | 'grow' | 'lowestElement' | 'taggedElement'
+    								heightCalculationMethod: 'lowestElement',
+    								log                     : false,                  // Enable console logging
+    								enablePublicMethods     : true,                  // Enable methods within iframe hosted page
+    								resizedCallback         : function(messageData){ // Callback fn when resize is received
+
+
+    								},
+    								messageCallback         : function(messageData){ // Callback fn when message is received
+
+
+    								},
+    								closedCallback         : function(id){ // Callback fn when iFrame is closed
+
+
+    								}
+    								});
+
+    								}, 300);
+    								}
+
+    								function formComplete () {
+    								alert('iframe form success');
+    								}
+
+
+    								</script>
 
 </head>
 <body>
 
-<div class="page-map">
+  <div class="page-menu">
 
-    <div class="page-menu">
+    <div class="toggle">
+    <button ng-click="toggle_page_menu = !toggle_page_menu;toggle_map_controls = false;">
+        <img src="/assets/img/open-menu.svg" />
+    </button>
+</div>
 
-        <div class="toggle">
-            <button ng-click="toggle_page_menu = !toggle_page_menu;toggle_map_controls = false;">
-                <img src="./assets/img/open-menu.svg" />
-            </button>
-        </div>
+<div class="content" ng-class="{active: toggle_page_menu}">
 
-        <div class="content" ng-class="{active: toggle_page_menu}">
+<!--
+    <div class="header">
 
-            <div class="header">
-
-                <div class="logo">
-                    <img src="./assets/img/logo2.svg" />
-                </div>
-
-            </div>
-
-            <div class="menu">
-
-                <div class="item">
-                    <a href="#"> SOBRE </a>
-                </div>
-
-                <div class="item">
-                    <a href="#"> BAIXE A PLANILHA </a>
-                </div>
-
-                <div class="item">
-                    <a href="#"> INDIQUE UM VEÍCULO </a>
-                </div>
-
-            </div>
-
-            <div class="data-items">
-
-                <div class="item">
-
-                    <div class="thumb">
-                        <img src="./assets/img/post.svg" />
-                    </div>
-
-                    <div class="data">
-
-                        <div class="tag">
-                            <span>1</span>
-                        </div>
-
-                        <div class="title">
-                            <a href="./noticia.html"> TITULO DA MATERIA UM EM TRES LINHAS </a>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="item">
-
-                    <div class="thumb">
-                        <img src="./assets/img/post.svg" />
-                    </div>
-
-                    <div class="data">
-
-                        <div class="tag">
-                            <span>2</span>
-                        </div>
-
-                        <div class="title">
-                            <a href="./noticia.html"> TITULO DA MATERIA UM EM TRES LINHAS </a>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="item">
-
-                    <div class="thumb">
-                        <img src="./assets/img/post.svg" />
-                    </div>
-
-                    <div class="data">
-
-                        <div class="tag">
-                            <span>3</span>
-                        </div>
-
-                        <div class="title">
-                            <a href="./noticia.html"> TITULO DA MATERIA UM EM TRES LINHAS </a>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="item">
-
-                    <div class="thumb">
-                        <img src="./assets/img/post.svg" />
-                    </div>
-
-                    <div class="data">
-
-                        <div class="tag">
-                            <span>4</span>
-                        </div>
-
-                        <div class="title">
-                            <a href="./noticia.html"> TITULO DA MATERIA UM EM TRES LINHAS </a>
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-
+        <div class="logo">
+            <img src="/assets/img/logo2.svg" />
         </div>
 
     </div>
+    -->
 
-    <div class="map-intro">
+    <div class="menu">
 
-        <div class="content">
+      
 
-            <div class="logo">
-                <img src="./assets/img/logo.svg" />
-            </div>
-
-            <div class="text">
-
-                <h1>
-                    Mapeamento busca veículos de comunicação periféricos nas 40 cidades de São Paulo para entender a cobertura local
-                </h1>
-
-                <p>
-                    Hoje, temos 21 milhões de habitantes nas 40 cidades que compõem São Paulo e Região Metropolitana. Grande parte dessa população é migrante e trouxe consigo hábitos e costumes locais pouco divulgados e valorizados nos territórios. Queremos identificar iniciativas para compreender como as periferias dessas regiões se reconhecem e o que sabem e divulgam sobre a informação e a produção cultural local.
-                </p>
-
-            </div>
-
+        <div class="item">
+            <a href="/sobre"> SOBRE </a>
         </div>
+
+      
+
+        <div class="item">
+            <a href="/equipe"> EQUIPE </a>
+        </div>
+
+      
+
+        <div class="item">
+            <a href="/"> DADOS </a>
+        </div>
+
+      
+
+        <div class="item">
+            <a href="/"> INDIQUE UM VEÍCULO </a>
+        </div>
+
+      
+
 
     </div>
 
-    <div class="map-area">
+    <div class="data-items">
 
-        <div id="map"></div>
+      
 
-    </div>
+        <div class="item">
 
-    <div ng-init="toggle_map_controls = true;" class="map-controls" ng-class="{closed: !toggle_map_controls || toggle_page_menu}">
+          <div class="thumb">
+              <img src="https://lh3.googleusercontent.com/d/1VobPcRsZjhaFcT3EvZ6SeuvGzgRC396g" />
+          </div>
 
-        <div class="toggle">
-            <button ng-click="toggle_map_controls = !toggle_map_controls;toggle_page_menu = false">
-                <img src="./assets/img/open-map-controls.svg" />
-            </button>
-        </div>
-
-        <div class="wrap">
-
-            <div class="header">
-
+            <div class="data">
                 <div class="title">
-                    <h5> USE OS FILTROS PARA <span>EXPLORAR O MAPA</span> </h5>
-                </div>
-
-                <div class="search">
-
-                    <label>LOCALIZAÇÃO</label>
-
-                    <input type="text" placeholder="digite a localização..." />
-
-                    <button>
-                        <img src="./assets/img/search.svg" />
-                    </button>
-
-                </div>
-
-            </div>
-
-            <div class="content">
-
-                <div class="filters">
-
-                    <div class="title"> ÁREA PERIFÉRICA </div>
-
-                    <div class="fieldset">
-                        <input type="checkbox" name="filter" id="area-periferica-1">
-                        <label for="area-periferica-1">Sim</label>
-                    </div>
-
-                    <div class="fieldset">
-                        <input type="checkbox" name="filter" id="area-periferica-2">
-                        <label for="area-periferica-2">Não</label>
-                    </div>
-
-                    <div class="title"> TEMA </div>
-
-                    <div class="fieldset">
-                        <input type="checkbox" name="filter" id="tema-cotidiano">
-                        <label for="tema-cotidiano">Cotidiano</label>
-                    </div>
-
-                    <div class="fieldset">
-                        <input type="checkbox" name="filter" id="tema-cultura">
-                        <label for="tema-cultura">Cultura</label>
-                    </div>
-
-                </div>
-
-                <div class="filters">
-
-                    <div class="title"> SEGMENTO </div>
-
-                    <div class="fieldset">
-                        <input type="checkbox" name="filter" id="segmento-radio">
-                        <label for="segmento-radio">Rádio</label>
-                    </div>
-
-                    <div class="fieldset">
-                        <input type="checkbox" name="filter" id="segmento-impresso">
-                        <label for="segmento-impresso">Impresso</label>
-                    </div>
-
-                    <div class="fieldset">
-                        <input type="checkbox" name="filter" id="segmento-online">
-                        <label for="segmento-online">Online</label>
-                    </div>
-
-                    <div class="fieldset">
-                        <input type="checkbox" name="filter" id="segmento-audiovisual">
-                        <label for="segmento-audiovisual">Audiovisual</label>
-                    </div>
-
-                </div>
-
-                <div class="filters">
-
-                    <div class="title"> PERFIL DE QUEM FAZ </div>
-
-                    <div class="fieldset">
-                        <input type="checkbox" name="filter" id="perfil-homem">
-                        <label for="perfil-homem">Homem Cisgênero</label>
-                    </div>
-
-                    <div class="fieldset">
-                        <input type="checkbox" name="filter" id="perfil-mulher">
-                        <label for="perfil-mulher">Mulher Cisgênero</label>
-                    </div>
-
-                    <div class="fieldset">
-                        <input type="checkbox" name="filter" id="perfil-nao-declarado">
-                        <label for="perfil-nao-declarado">Não declarou</label>
-                    </div>
-
-                    <div class="fieldset">
-                        <input type="checkbox" name="filter" id="perfil-branco">
-                        <label for="perfil-branco">Branco</label>
-                    </div>
-
-                    <div class="fieldset">
-                        <input type="checkbox" name="filter" id="perfil-pardo">
-                        <label for="perfil-pardo">Pardo</label>
-                    </div>
-
-                </div>
-
-                <div class="filters">
-
-                    <div class="title"> VÍNCULOS </div>
-
-                    <div class="fieldset">
-                        <input type="checkbox" name="filter" id="vinculos-sociais">
-                        <label for="vinculos-sociais">Movimentos sociais</label>
-                    </div>
-
-                    <div class="fieldset">
-                        <input type="checkbox" name="filter" id="vinculos-politico">
-                        <label for="vinculos-politico">Político</label>
-                    </div>
-
-                    <div class="fieldset">
-                        <input type="checkbox" name="filter" id="vinculos-religioso">
-                        <label for="vinculos-religioso">Religioso</label>
-                    </div>
-
+                    <a href="/2022/03/03/novas-plataformas.html"> Os novos formatos do jornalismo cultural produzidos por veículos locais </a>
                 </div>
 
             </div>
 
         </div>
 
-    </div>
+        
 
-    <div class="page-footer">
+        <div class="item">
 
-        <div class="banner">
-            <img src="./assets/img/footer.svg" />
+          <div class="thumb">
+              <img src="https://lh3.googleusercontent.com/d/1DxSpf1HSzQg7QyS34zoFskdxU0xpmJv0" />
+          </div>
+
+            <div class="data">
+                <div class="title">
+                    <a href="/2022/03/03/identidade-cultural-territorios.html"> Influência do jornalismo local na construção da identidade cultural dos territórios </a>
+                </div>
+
+            </div>
+
         </div>
+
+        
+
+        <div class="item">
+
+          <div class="thumb">
+              <img src="https://lh3.googleusercontent.com/d/1R5rMLbvqauBDM2qOVXZyprMTP8I1yK1g" />
+          </div>
+
+            <div class="data">
+                <div class="title">
+                    <a href="/2022/03/02/desafios-cobertura-cultura.html"> Desafios do jornalismo local na cobertura de iniciativas culturais </a>
+                </div>
+
+            </div>
+
+        </div>
+
+        
 
     </div>
 
 </div>
 
-<script src='https://api.mapbox.com/mapbox.js/v3.3.1/mapbox.js'></script>
-<link href='https://api.mapbox.com/mapbox.js/v3.3.1/mapbox.css' rel='stylesheet' />
 
-<script>
+  </div>
 
-var mapConfig = {
-    latitudeCenter: -23.5850000,
-    longitudeCenter: -46.6154967,
-    mapZoom: 12,
-    mapLocationItems: [
-        {
-            latitude: -46.6215315,
-            longitude: -23.5154967,
-            nome_veiculo: 'Nome do veiculo',
-            localizacao: 'Pirituba, São Paulo',
-            formato: 'Rádio',
-            segmento_titulo: 'Segmento principal',
-            segmentos: [
-                'Impresso',
-                'Online',
-                'Audiovisual'
-            ],
-            links: {
-                link_principal: '#',
-                facebook: '#',
-                twitter: '#',
-                linkedin: '#',
-            }
-        },
-        {
-            latitude: -46.5215315,
-            longitude: -23.5154967,
-            nome_veiculo: 'Nome do veiculo 2',
-            localizacao: 'Santana, São Paulo',
-            formato: 'Rádio',
-            segmento_titulo: 'Segmento principal',
-            segmentos: [
-                'Impresso',
-                'Online',
-                'Audiovisual'
-            ],
-            links: {
-                link_principal: '#',
-                facebook: '#',
-                twitter: '#',
-                linkedin: '#',
-            }
-        },
-        {
-            latitude: -46.715315,
-            longitude: -23.5654967,
-            nome_veiculo: 'Nome do veiculo 3',
-            localizacao: 'Butanta, São Paulo',
-            formato: 'Rádio',
-            segmento_titulo: 'Segmento principal',
-            segmentos: [
-                'Impresso',
-                'Online',
-                'Audiovisual'
-            ],
-            links: {
-                link_principal: '#',
-                facebook: '#',
-                twitter: '#',
-                linkedin: '#',
-            }
-        }
-    ]
-};
+<iframe src="https://nucleojor.shinyapps.io/mapadojornalismo/" width="100%" onload="loadIframe()" frameborder="no" scrolling="auto"></iframe>
 
+<div class="page-footer">
 
-L.mapbox.accessToken = 'pk.eyJ1Ijoidm9sdCIsImEiOiJja3d5M3lrb2wwYThsMndvNjF2eHJoMXp2In0.-W-J1Wrz4q-ji1In0dLDHg';
+    <div class="banner">
+        <img src="/assets/img/footer.svg" />
+    </div>
 
-var map = L.mapbox.map('map').setView([mapConfig.latitudeCenter,mapConfig.longitudeCenter], mapConfig.mapZoom).addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/light-v10'));
+</div>
 
-if (map.scrollWheelZoom) {
-  map.scrollWheelZoom.disable();
-}
-
-var featureLayer;
-
-for (var i = 0; i < mapConfig.mapLocationItems.length; i++) {
-
-    featureLayer = L.mapbox.featureLayer({
-        type: 'FeatureCollection',
-        features: [
-            {
-                type: 'Feature',
-                properties: {
-                    'marker-color': '#8368E0',
-                    'marker-size': 'large',
-                    'marker-symbol': ''
-                },
-                geometry: {
-                    type: 'Point',
-                    coordinates: [
-                        mapConfig.mapLocationItems[i].latitude,
-                        mapConfig.mapLocationItems[i].longitude
-                    ]
-                }
-            }
-        ]
-    }).addTo(map);
-
-    featureLayer.eachLayer(function(layer) {
-
-        var content = '<div class="map-layer"><div class="head"><h3>' + mapConfig.mapLocationItems[i].nome_veiculo + '</h3><p>' + mapConfig.mapLocationItems[i].localizacao + '</p><span>Formato: ' + mapConfig.mapLocationItems[i].formato + '</span></div><div class="body"><span>' + mapConfig.mapLocationItems[i].segmento_titulo + '</span><ul>';
-
-        for (var x = 0; x < mapConfig.mapLocationItems[i].segmentos.length; x++) {
-            content += '<li>' + mapConfig.mapLocationItems[i].segmentos[x] + '</li>';
-        }
-
-        content += '</ul></div><div class="foot"><span>Modelo de negócio</span><div class="links">';
-
-        content += '<a class="link" target="_blank" href="' + mapConfig.mapLocationItems[i].links.link_principal + '">&nbsp;</a>';
-
-        content += '<a class="facebook" target="_blank" href="' + mapConfig.mapLocationItems[i].links.facebook + '">&nbsp;</a>';
-
-        content += '<a class="twitter" target="_blank" href="' + mapConfig.mapLocationItems[i].links.twitter + '">&nbsp;</a>';
-
-        content += '<a class="linkedin" target="_blank" href="' + mapConfig.mapLocationItems[i].links.linkedin + '">&nbsp;</a>';
-
-        content += '</div></div>';
-
-        layer.bindPopup(content);
-
-    });
-
-}
-
-</script>
-
-<script type="text/javascript" src="./assets/js/jquery.js"></script>
-<script type="text/javascript" src="./assets/js/angular.js"></script>
-<script type="text/javascript" src="./assets/js/app.js"></script>
-
+<script type="text/javascript" src="/assets/js/jquery.js"></script>
+<script type="text/javascript" src="/assets/js/angular.js"></script>
+<script type="text/javascript" src="/assets/js/app.js"></script>
 </body>
 </html>

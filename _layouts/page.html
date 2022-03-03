@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br" ng-app="app">
+<head>
+
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.subtitle }}" />
+    <meta property="og:type" content="post" />
+    <meta property="og:url" content="{{ page.url }}" />
+    <meta property="og:image" content="{{ page.imagem_destaque }}" />
+
+
+</head>
+<body>
+
+<div class="page-news">
+
+    <div class="container">
+
+        <div class="header">
+
+            <div class="logo">
+                <a href="{{ site.url }}/index">
+                    <img src="{{ site.baseurl }}/assets/img/logo3.svg" />
+                </a>
+            </div>
+
+            <div class="page-menu">
+
+                {% include nav.html %}
+
+            </div>
+
+        </div>
+
+        <div class="wrap-content">
+
+            <div class="news-post2">
+
+                {{content}}
+
+            </div>
+
+        </div>
+
+        <div class="page-footer">
+
+            <div class="banner">
+                <img src="{{ site.baseurl }}/assets/img/footer.svg" />
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/angular.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/app.js"></script>
+
+</body>
+</html>
