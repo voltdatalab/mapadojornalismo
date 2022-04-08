@@ -24,21 +24,7 @@
 
     <div class="container">
 
-        <div class="header">
-
-            <div class="logo">
-                <a href="{{ site.url }}/index">
-                    <img src="{{ site.baseurl }}/assets/img/logo3.svg" />
-                </a>
-            </div>
-
-            <div class="page-menu">
-
-                {% include nav.html %}
-
-            </div>
-
-        </div>
+        {% include header.html %}
 
         <div class="wrap-content">
 
@@ -62,22 +48,24 @@
                     <div class="wrap">
 
                         <div class="social">
-                            <a href="#">
+                            <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url }}&quote={{ page.title }}" target="_blank">
                                 <img src="{{ site.baseurl }}/assets/img/facebook.svg" />
                             </a>
                         </div>
 
                         <div class="social">
-                            <a href="#">
+                            <a href="https://twitter.com/intent/tweet?source={{ page.url }}&text={{ page.title }}:%20{{ page.url }}">
                                 <img src="{{ site.baseurl }}/assets/img/twitter.svg" />
                             </a>
                         </div>
 
                         <div class="social">
-                            <a href="#">
+                            <a type="button" onclick="Copy();" />
                                 <img src="{{ site.baseurl }}/assets/img/share.svg" />
+                                <span style="color:#fff"> <small>Copiar Link</small></span>
                             </a>
                         </div>
+                        <textarea class="link-texto" style="opacity:0" id="url" rows="1" cols="30"></textarea>
 
                     </div>
 
@@ -100,7 +88,7 @@
         <div class="page-footer">
 
             <div class="banner">
-                <img src="{{ site.baseurl }}/assets/img/footer.svg" />
+                <img src="{{ site.baseurl }}/assets/img/regua_transparente_v2.png" />
             </div>
 
         </div>
@@ -108,6 +96,18 @@
     </div>
 
 </div>
+
+<script>
+
+function Copy() {
+  var Url = document.getElementById("url");
+  Url.innerHTML = window.location.href;
+  console.log(Url.innerHTML)
+  Url.select();
+  document.execCommand("copy");
+  console.log('Link Copiado!');
+}
+</script>
 
 <script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.js"></script>
 <script type="text/javascript" src="{{ site.baseurl }}/assets/js/angular.js"></script>

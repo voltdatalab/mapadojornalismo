@@ -26,15 +26,15 @@
 
         <div class="header">
 
-            <div class="logo">
-                <a href="/index">
-                    <img src="/assets/img/logo3.svg" />
-                </a>
-            </div>
+    <div class="logo">
+        <a href="/">
+            <img src="/assets/img/logo3.svg" />
+        </a>
+    </div>
 
-            <div class="page-menu">
+    <div class="page-menu">
 
-                <div class="toggle">
+        <div class="toggle">
     <button ng-click="toggle_page_menu = !toggle_page_menu;toggle_map_controls = false;">
         <img src="/assets/img/open-menu.svg" />
     </button>
@@ -143,9 +143,10 @@
 </div>
 
 
-            </div>
+    </div>
 
-        </div>
+</div>
+
 
         <div class="wrap-content">
 
@@ -169,22 +170,24 @@
                     <div class="wrap">
 
                         <div class="social">
-                            <a href="#">
+                            <a href="https://www.facebook.com/sharer/sharer.php?u=/2022/03/02/desafios-cobertura-cultura.html&quote=Desafios do jornalismo local na cobertura de iniciativas culturais" target="_blank">
                                 <img src="/assets/img/facebook.svg" />
                             </a>
                         </div>
 
                         <div class="social">
-                            <a href="#">
+                            <a href="https://twitter.com/intent/tweet?source=/2022/03/02/desafios-cobertura-cultura.html&text=Desafios do jornalismo local na cobertura de iniciativas culturais:%20/2022/03/02/desafios-cobertura-cultura.html">
                                 <img src="/assets/img/twitter.svg" />
                             </a>
                         </div>
 
                         <div class="social">
-                            <a href="#">
+                            <a type="button" onclick="Copy();" />
                                 <img src="/assets/img/share.svg" />
+                                <span style="color:#fff"> <small>Copiar Link</small></span>
                             </a>
                         </div>
+                        <textarea class="link-texto" style="opacity:0" id="url" rows="1" cols="30"></textarea>
 
                     </div>
 
@@ -244,7 +247,7 @@ O GRU Diário se dedica a cobrir o que acontece em Guarulhos, segunda maior cida
         <div class="page-footer">
 
             <div class="banner">
-                <img src="/assets/img/footer.svg" />
+                <img src="/assets/img/regua_transparente_v2.png" />
             </div>
 
         </div>
@@ -252,6 +255,18 @@ O GRU Diário se dedica a cobrir o que acontece em Guarulhos, segunda maior cida
     </div>
 
 </div>
+
+<script>
+
+function Copy() {
+  var Url = document.getElementById("url");
+  Url.innerHTML = window.location.href;
+  console.log(Url.innerHTML)
+  Url.select();
+  document.execCommand("copy");
+  console.log('Link Copiado!');
+}
+</script>
 
 <script type="text/javascript" src="/assets/js/jquery.js"></script>
 <script type="text/javascript" src="/assets/js/angular.js"></script>
