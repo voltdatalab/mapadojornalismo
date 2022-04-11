@@ -826,8 +826,8 @@ input[type="radio"]:disabled {
 }
 }
 
-/* controles */
-#localizacao-label, #formato-label, #genero-label, #cobre_cultura-label, #raca-label, #cobre_periferia-label{
+/* controles*/
+#localizacao-label, #formato-label, #areas-label, #genero_responsavel-label, #cobre_cultura-label, #raca_responsavel-label, #cobre_periferia-label{
   background-color: #8368E0;
   padding: 10px;
   width: 100%;
