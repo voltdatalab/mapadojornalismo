@@ -2,6 +2,7 @@ library(leaflet)
 library(dplyr)
 library(htmlwidgets)
 library(shinyWidgets)
+library(stringr)
 
   server <- function(input, output, session){
     
@@ -14,17 +15,13 @@ library(shinyWidgets)
         filter(cobre_cultura == "sim")
       }
       
-      if (input$nome != "Todos") {
+      if (input$nome != "") {
         main_table <- main_table %>%
-          filter(str_detect(nome_veiculo, input$nome))
+          filter(str_detect(nome_veiculo, regex(input$nome, ignore_case = T)))
       }
       
       if (input$areas != "Todos") {
         main_table <- main_table[main_table$principal_cobertura == input$areas,]
-      }
-      
-      if (input$localizacao != "Todas") {
-        main_table <- main_table[main_table$localizacao == input$localizacao,]
       }
       
       if (input$localizacao != "Todas") {
@@ -157,8 +154,8 @@ library(shinyWidgets)
              column(6,
                     searchInput(inputId = "nome",
                                 label = "Busque por nome",
-                                value = "Todos",
-                                resetValue = "Todos",
+                                value = "",
+                                resetValue = "",
                                 btnSearch = icon("search"),
                                 btnReset = icon("remove"),
                                 placeholder = "Digite aqui")

@@ -5,9 +5,9 @@ account: nucleojor
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 5591426
-bundleId: 5780006
+bundleId: 5827520
 url: https://nucleojor.shinyapps.io/mapadojornalismo/
-when: 1649450561.50977
-lastSyncTime: 1649450561.50978
+when: 1650653272.69648
+lastSyncTime: 1650653272.6965
 asMultiple: FALSE
 asStatic: FALSE

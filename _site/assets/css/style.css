@@ -158,7 +158,7 @@ input[type="checkbox"]:disabled {
 .page-menu .content .data-items .item .thumb{
     float: left;
     width: 40%;
-    height: 100%;
+
 }
 
 .page-menu .content .data-items .item .thumb img{
@@ -501,6 +501,12 @@ input[type="checkbox"]:disabled {
 
 .page-news .wrap-content .news-post2{
     padding: 1em 12em;
+}
+
+@media (max-width: 980px) {
+.page-news .wrap-content .news-post2{
+    padding: 0
+}
 }
 
 .page-news .wrap-content .news-post p{
