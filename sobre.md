@@ -2,24 +2,33 @@
 layout: page
 ---
 
-## Um mapa do jornalismo local
+O Mapa do Jornalismo Local é um levantamento de veículos de comunicação realizado pela [Énois Laboratório de Jornalismo](https://enoisconteudo.com.br/) que tem como objetivo identificar iniciativas de jornalismo e jornalismo cultural nos bairros com menor cobertura de imprensa dentro dos municípios. Estes territórios estão, em grande parte, situados em zonas periféricas das cidades e, por sua vez, também apresentam menor acesso a direitos básicos e políticas públicas que atendam às demandas locais.
 
-Hoje, temos 21 milhões de habitantes nas 40 cidades que compõem São Paulo e Região Metropolitana. Grande parte dessa população é migrante e trouxe consigo hábitos e costumes locais pouco divulgados e valorizados nos territórios. Queremos identificar iniciativas para compreender como as periferias dessas regiões se reconhecem e o que sabem e divulgam sobre a informação e a produção cultural local. A partir desse levantamento, criamos um mapa de difusão e democratização cultural periférico dos municípios. O mapeamento será estendido a outras regiões do País.  
+Começamos este mapeamento com foco nas 39 cidades que compõem São Paulo e a Região Metropolitana, totalizando 21 milhões de habitantes. Boa parte dessa população ainda se informa por meio de veículos da mídia tradicional ou, no caso de municípios menores, jornais ligados a partidos políticos ou até mesmo à prefeitura. Com o Mapa, nossa intenção é jogar luz nas iniciativas que estão trabalhando para dar conta das necessidades de informação de suas comunidades, assim como valorizar sua cultura e identidade a partir da comunicação.
 
-O Mapa do Jornalismo Local é realizado com incentivo do Programa Municipal de Apoio a Projetos Culturais da Prefeitura de São Paulo (Promac) e é patrocinado pelo Facebook, pela Marsh McLennan e pela MN Tecidos.
+Queremos que este projeto ajude a difundir e democratizar o acesso à informação e cultura nos municípios – visibilizando os projetos que já fazem o trabalho de contar as histórias de suas comunidades.
 
-### Como começamos?
-A partir de uma pesquisa realizada por quatro jovens mulheres, comunicadoras e moradoras de territórios periféricos, levantamos dados dos veículos jornalísticos e de difusão cultural nas bordas dos 39 municípios da Região Metropolitana de São Paulo, mapeando as regiões cobertas por eles e formando um grande mapa gratuito das iniciativas que trabalham pela democratização da cultura e do jornalismo nas periferias. No processo, foi possível identificar a consciência do quanto as periferias sabem sobre si mesmas e se acompanham, como contam as histórias da relação entre a difusão cultural, as narrativas, a cobertura, a distribuição em seus territórios e seu desenvolvimento local, e também gerar conversas e apontar caminhos em direção à valorização da produção de cultura e informação local.
+O mapeamento será estendido a outras regiões do país e também contempla iniciativas que cobrem questões de outra natureza, como educação, mobilidade e segurança.  
 
-### Área de abrangência
+A primeira etapa deste projeto foi realizada com apoio do Programa Municipal de Apoio a Projetos Culturais da Prefeitura de São Paulo (Promac) e é patrocinado, via lei de incentivo, pela Meta, pela Marsh McLennan e pela MN Tecidos.
 
-O primeiro ciclo do mapeamento contemplou veículos e canais de difusão cultural nas periferias da capital paulista e dos 39 municípios que compõem a região metropolitana de São Paulo: Caieiras, Cajamar, Francisco Morato, Franco da Rocha e Mairiporã (norte); Arujá, Biritiba-Mirim, Ferraz de Vasconcelos, Guararema, Guarulhos, Itaquaquecetuba, Mogi das Cruzes, Poá, Salesópolis, Santa Isabel e Suzano (leste); Diadema, Mauá, Ribeirão Pires, Rio Grande da Serra, Santo André, São Bernardo do Campo e São Caetano do Sul (sudeste); Cotia, Embu das Artes, Embu-Guaçu, Itapecerica da Serra, Juquitiba, São Lourenço da Serra, Taboão da Serra e Vargem Grande Paulista (sudoeste); Barueri, Carapicuíba, Itapevi, Jandira, Osasco, Pirapora do Bom Jesus e Santana de Parnaíba (oeste).
+## O que é jornalismo local?
 
-### Etapas
+Antes de entrarmos na metodologia, achamos importante explicar o que estamos chamando por iniciativas de jornalismo local. Existem diversas atribuições para este termo, que podem seguir definições geográficas, espaciais, sociais e até mesmo históricas. Neste caso, nosso objetivo foi identificar, dentro dos municípios, as zonas de calor – ou seja, regiões onde existem iniciativas de jornalismo e comunicação que atuam para servir ao território.
 
-- Formação: Todo o mapeamento e produção dos eventos está sendo feito por quatro jovens das periferias de São Paulo e região metropolitana, que passam por uma formação em jornalismo cultural, mapeamento de iniciativas (baseado na metodologia do Prato Firmeza) e produção de eventos.
+A partir dessa especificidade geográfica, nos debruçamos sobre, como classifica a pesquisadora Sonia Aguiar no livro Territórios do Jornalismo, "iniciativas entre as quais a proximidade espacial e identitária aparecem como determinantes dos conteúdos divulgados". E é exatamente por isso que consideramos como iniciativas de jornalismo canais de whatsapp, grupos de Facebook e outras formas e linguagens que, além de atenderem aos critérios jornalísticos, também estabelecem um vínculo com suas comunidades.
 
-- Mapeamento: O grupo fará um levantamento de dados dos veículos de difusão
-cultural nas bordas de São Paulo, mapeando as regiões cobertas por eles e formando um grande mapa gratuito das iniciativas que trabalham pela democratização da cultura nas periferias.
+Isso significa que estamos tensionando também, por meio deste trabalho, a definição do que é considerado jornalismo. Assim como afirma Sonia Aguiar, essas iniciativas não tendem a reproduzir padrões comuns aos grandes centros, mas encontram "as melhores maneiras – estratégias – para agir em cada realidade".  
 
-- Distribuição: Além do mapa de difusão cultural das periferias, vamos gerar conversas sobre cultura na periferia com o conteúdo produzido e produzir (por meio de chamada pública para jornalistas locais) duas reportagens a serem distribuídas nos territórios e com parceiros de mídia nacional, como UOL e Agência Jovem de Notícias, além de outras mídias independentes.
+## Por que mapear o jornalismo local é importante?
+
+O jornalismo local produzido por comunicadores, comunicadoras e jornalistas das periferias, favelas – e lugares onde aparentemente não há cobertura jornalística – que escolhemos mapear neste projeto têm o compromisso de levar informação a partir da realidade de quem vive nas bordas da cidade e, muitas vezes, está às margens dos seus direitos fundamentais.
+
+Esse tipo de jornalismo, que algumas vezes é invisibilizado e até colocado em dúvida, é capaz de compreender as necessidades dos moradores e moradoras de uma maneira única. Afinal, quem se propõe a atuar nesse trabalho quase sempre é também um integrante da comunidade, então sabe e sente quais as necessidades do público dali. Dessa maneira, produz notícias com a certeza de sua relevância. O comunicador, comunicadora e jornalista periférico não são apenas “narradores de fatos”, muitas vezes eles também são público, fontes ou personagens das próprias histórias.
+
+E é por isso que saber quem são e como atuam essas iniciativas é de extrema importância. Assim, podemos fortalecer esse trabalho, que também é uma disputa na criação de um jornalismo mais plural e diverso.
+
+
+## Área de abrangência
+
+O mapeamento contemplou veículos e canais de difusão cultural nos bairros e periferias da capital paulista e dos 38 municípios que compõem a região metropolitana de São Paulo: Caieiras, Cajamar, Francisco Morato, Franco da Rocha e Mairiporã (norte); Arujá, Biritiba-Mirim, Ferraz de Vasconcelos, Guararema, Guarulhos, Itaquaquecetuba, Mogi das Cruzes, Poá, Salesópolis, Santa Isabel e Suzano (leste); Diadema, Mauá, Ribeirão Pires, Rio Grande da Serra, Santo André, São Bernardo do Campo e São Caetano do Sul (sudeste); Cotia, Embu das Artes, Embu-Guaçu, Itapecerica da Serra, Juquitiba, São Lourenço da Serra, Taboão da Serra e Vargem Grande Paulista (sudoeste); Barueri, Carapicuíba, Itapevi, Jandira, Osasco, Pirapora do Bom Jesus e Santana de Parnaíba (oeste).

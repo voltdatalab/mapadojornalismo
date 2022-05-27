@@ -6,7 +6,6 @@
 
 body{
     font-size: 16px;
-    color: #fff;
     font-family: 'Raleway', sans-serif;
 }
 
@@ -461,6 +460,7 @@ input[type="checkbox"]:disabled {
 .page-news .wrap-content .news-details .description p{
     margin: 0;
     font-size: 0.84em;
+    color: #fff
 }
 
 .page-news .wrap-content .news-details .author{
@@ -501,6 +501,11 @@ input[type="checkbox"]:disabled {
 
 .page-news .wrap-content .news-post2{
     padding: 1em 12em;
+}
+
+.news-post img{
+  padding: 28px 0;
+  width: 80%
 }
 
 @media (max-width: 980px) {

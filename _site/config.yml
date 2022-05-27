@@ -4,8 +4,9 @@ data_dir: _data
 includes_dir: _includes
 ##########
 
-titulo: Mapa do Jornalismo Local
-descricao: Mapeamento busca veículos de comunicação periféricos nas 40 cidades de São Paulo para entender a cobertura local
+titulo: "Mapa do Jornalismo Local"
+descricao: "Mapeamento busca veículos de comunicação periféricos nas 40 cidades de São Paulo para entender a cobertura local"
+url: "https://mapadojornalismolocal.enoisconteudo.com.br/"
 
 ##########
 

@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="pt-br" ng-app="app">
+<head>
+
+    <meta charset="utf-8">
+    <title>Relatório - Mapa do Jornalismo Local</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+
+    <meta property="og:title" content="Relatório - Mapa do Jornalismo Local" />
+    <meta property="og:description" content="Muito mudou com o avanço da tecnologia, mas isso não significa que não havia cultura e jornalismo antes das conexões virtuais. Pelo contrário..." />
+    <meta property="og:type" content="post" />
+    <meta property="og:url" content="/relatorio.html" />
+    <meta property="og:image" content="assets/img/destaque_mapa.png" />
+
+
+</head>
+<body>
+
+<div class="page-news">
+
+    <div class="container">
+
+        <div class="header">
+
+    <div class="logo">
+        <a href="/">
+            <img src="/assets/img/logo3.svg" />
+        </a>
+    </div>
+
+    <div class="page-menu">
+
+        <div class="toggle">
+    <button ng-click="toggle_page_menu = !toggle_page_menu;toggle_map_controls = false;">
+        <img src="/assets/img/open-menu.svg" />
+    </button>
+</div>
+
+<div class="content" ng-class="{active: toggle_page_menu}">
+
+<!--
+    <div class="header">
+
+        <div class="logo">
+            <img src="/assets/img/logo2.svg" />
+        </div>
+
+    </div>
+    -->
+
+    <div class="menu">
+
+      
+
+        <div class="item">
+            <a href="/sobre"> SOBRE </a>
+        </div>
+
+      
+
+        <div class="item">
+            <a href="/equipe"> EQUIPE </a>
+        </div>
+
+      
+
+        <div class="item">
+            <a href="/relatorio"> RELATÓRIO </a>
+        </div>
+
+      
+
+        <div class="item">
+            <a href="/https://docs.google.com/forms/d/e/1FAIpQLSdSZOlyukqD1guKEYZ6qw4pd3hRNuIHrrnAEn1eVAXG_6HnUg/viewform"> FORMULÁRIO </a>
+        </div>
+
+      
+
+
+    </div>
+
+    <div class="data-items">
+
+      
+
+        <div class="item">
+
+          <div class="thumb">
+              <img src="https://lh3.googleusercontent.com/d/1VobPcRsZjhaFcT3EvZ6SeuvGzgRC396g" />
+          </div>
+
+            <div class="data">
+                <div class="title">
+                    <a href="/2022/03/03/novas-plataformas.html"> Os novos formatos do jornalismo cultural produzidos por veículos locais </a>
+                </div>
+
+            </div>
+
+        </div>
+
+        
+
+        <div class="item">
+
+          <div class="thumb">
+              <img src="https://lh3.googleusercontent.com/d/1DxSpf1HSzQg7QyS34zoFskdxU0xpmJv0" />
+          </div>
+
+            <div class="data">
+                <div class="title">
+                    <a href="/2022/03/03/identidade-cultural-territorios.html"> Influência do jornalismo local na construção da identidade cultural dos territórios </a>
+                </div>
+
+            </div>
+
+        </div>
+
+        
+
+        <div class="item">
+
+          <div class="thumb">
+              <img src="https://lh3.googleusercontent.com/d/1R5rMLbvqauBDM2qOVXZyprMTP8I1yK1g" />
+          </div>
+
+            <div class="data">
+                <div class="title">
+                    <a href="/2022/03/02/desafios-cobertura-cultura.html"> Desafios do jornalismo local na cobertura de iniciativas culturais </a>
+                </div>
+
+            </div>
+
+        </div>
+
+        
+
+    </div>
+
+</div>
+
+
+    </div>
+
+</div>
+
+
+        <div class="wrap-content">
+
+            <div class="news-details">
+
+                <div class="title">
+                    <h1>Relatório - Mapa do Jornalismo Local</h1>
+                </div>
+
+                <div class="description">
+                    <p>Muito mudou com o avanço da tecnologia, mas isso não significa que não havia cultura e jornalismo antes das conexões virtuais. Pelo contrário...</p>
+                </div>
+
+                <div class="author">Katia Flora (reportagem) / Gisele Alexandre (edição) <br />
+                03/03/2021</div>
+
+                <div class="socials">
+
+                    <div class="title">COMPARTILHE</div>
+
+                    <div class="wrap">
+
+                        <div class="social">
+                            <a href="https://www.facebook.com/sharer/sharer.php?u=/relatorio.html&quote=Relatório - Mapa do Jornalismo Local" target="_blank">
+                                <img src="/assets/img/facebook.svg" />
+                            </a>
+                        </div>
+
+                        <div class="social">
+                            <a href="https://twitter.com/intent/tweet?source=/relatorio.html&text=Relatório - Mapa do Jornalismo Local:%20/relatorio.html">
+                                <img src="/assets/img/twitter.svg" />
+                            </a>
+                        </div>
+
+                        <div class="social">
+                            <a type="button" onclick="Copy();" />
+                                <img src="/assets/img/share.svg" />
+                                <span style="color:#fff"> <small>Copiar Link</small></span>
+                            </a>
+                        </div>
+                        <textarea class="link-texto" style="opacity:0" id="url" rows="1" cols="30"></textarea>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="news-thumb">
+                <img src="assets/img/destaque_mapa.png" />
+            </div>
+
+            <div class="news-post">
+
+                <style>
+img {
+    max-width: 90%;
+}
+</style>
+
+<h2 id="metodologia">METODOLOGIA</h2>
+
+<p>A metodologia de levantamento acontece em três etapas:</p>
+
+<ol>
+  <li>
+    <p>Levantamento de iniciativas de comunicação nas cidades mapeadas, que consiste em listar veículos, comunicadores locais, projetos ou organizações que podem responder às perguntas específicas da segunda etapa da pesquisa. <br /> <strong>Ferramentas de pesquisa:</strong> por meio de métodos digitais (buscas refinadas no Google, Facebook, Instagram) e busca manual da equipe de pesquisadoras por meio de contribuições públicas e rede de relacionamento, por exemplo.</p>
+  </li>
+  <li>
+    <p>Aprofundamento das informações sobre as iniciativas listadas. Além de coletar informações sobre cidade e bairros periféricos de atuação das iniciativas de comunicação, a pesquisa buscou entender o perfil de gênero e raça/cor dos responsáveis e outras relações como, por exemplo, envolvimento em iniciativas comunitárias, partidárias e religiosas. <br /> <strong>Ferramenta de pesquisa:</strong> Envio do Formulário com as perguntas para os responsáveis pelas iniciativas ou entrevista feita pelo pesquisador que faz o preenchimento direto na planilha de mapeamento.</p>
+  </li>
+  <li>
+    <p>Checagem e validação dos dados. Limpeza, tratamento e padronização dos dados coletados. Depois de tratados, os dados são inclusos em uma base geolocalizada, para consulta no site, podendo o leitor fazer recortes específicos de seu interesse.</p>
+  </li>
+</ol>
+
+<hr />
+
+<h2 id="análise-dos-dados">ANÁLISE DOS DADOS</h2>
+
+<p><img src="/imagens/graf1.png" alt="Gráfico 1" /></p>
+
+<p>Nesta primeira fase do mapeamento, foram identificadas 470 iniciativas de comunicação nas 39 cidades da Região Metropolitana de São Paulo e capital. O levantamento mostrou que em 93% das cidades, há três ou mais iniciativas de comunicação em atividade.</p>
+
+<p><img src="/imagens/graf2.png" alt="Gráfico 2" /></p>
+
+<p>As cidades com até duas iniciativas são as menores em população e mais distantes de São Paulo como Pirapora do Bom Jesus, São Lourenço da Serra, Biritiba Mirim, Itapecerica da Serra, Vargem Grande Paulista.</p>
+
+<p>Vale ressaltar que, do total de iniciativas mapeadas inicialmente, 29% (140 veículos) produzem conteúdo específico em territórios periféricos, objeto principal do nosso mapeamento. É sobre elas que vamos nos debruçar nas análises a seguir.</p>
+
+<h2 id="distribuição-de-veículos-que-cobrem-áreas-periféricas-por-município">Distribuição de veículos que cobrem áreas periféricas por município</h2>
+
+<p>Do total de iniciativas periféricas inicialmente mapeadas dentro da Região Metropolitana de São Paulo (140), 14% ficam nas cidades de São Paulo (Capital) e São Bernardo do Campo (ABC paulista), e 11% em Mogi das Cruzes (Alto Tietê). As cidades de Santo André e Diadema também aparecem com o maior percentual de iniciativas periféricas mapeadas, com 9% cada cidade.</p>
+
+<p>As cidades de Cajamar, Carapicuíba, Guararema, Santa Isabel, Barueri, Cotia, Embu das Artes, Franco da Rocha, Itapevi, Jandira, Mairiporã, Ribeirão Pires, Rio Grande da Serra, Salesópolis e Taboão da Serra representam menos de 1% das iniciativas mapeadas, conforme mostra a tabela.</p>
+
+<p><img src="/imagens/graf3.png" alt="Gráfico 3" /></p>
+
+<h2 id="análise-etnico-racial-dos-responsáveis-pelos-veículos">Análise etnico racial dos responsáveis pelos veículos</h2>
+
+<p>Foi possível identificar a raça do responsável pela iniciativa periférica mapeada em 109 registros. O número de responsáveis negros (pretos e pardos) atuando em áreas periféricas é de 55%, sendo 36,7% autodeclarados pardos e 19,27% autodeclarados pretos, enquanto brancos é de 40%.</p>
+
+<p><img src="/imagens/graf4.png" alt="Gráfico 4" /></p>
+
+<p>Quando analisamos a distribuição territorial dos responsáveis pelos veículos por raça, verificamos que em três municípios com o maior número de iniciativas mapeadas (São Bernardo do Campo, Mogi das Cruzes e Osasco), a maioria dos responsáveis são pessoas brancas.</p>
+
+<p><img src="/imagens/graf5.png" alt="Gráfico 5" /></p>
+
+<p>Já quando olhamos para a distribuição geográfica de responsáveis por iniciativas pela raça/cor negra (soma de pretos e pardos), vimos que em outras cidades, com menor número de iniciativas mapeadas, se destacam. A exceção vai para São Paulo, que teve a maioria dos responsáveis autodeclarados pretos ou pardos (sendo 7,34% autodeclarados pardos e 3,67% pretos). Em Mogi das Cruzes, 4,59% se declararam pardos e em Ferraz de Vasconcelos foram 3,67%.</p>
+
+<p>As cidades de Cajamar, Carapicuíba, Embu das Artes, Franco da Rocha, Guarulhos, Mauá, Rio Grande da Serra, Salesópolis, São Bernardo do Campo, Cotia, Ferraz de Vasconcelos, São Bernardo do Campo, Suzano e Taboão da Serra tem menos de 1% dos responsáveis pelas iniciativas autodeclarados pretos ou pardos.</p>
+
+<p><img src="/imagens/graf6.png" alt="Gráfico 6" /></p>
+
+<h2 id="análise-por-gênero">Análise por gênero</h2>
+
+<p>A maioria das iniciativas detalhadas tem homens cisgênero como responsáveis (74,8%). As mulheres estão à frente de 21,6% das iniciativas. Não foram mapeadas pessoas trans liderando iniciativas de comunicação em áreas periféricas.</p>
+
+<p><img src="/imagens/graf7.png" alt="Gráfico 7" /></p>
+
+<p>Na intersecção de raça e gênero, identificamos que há maior incidência de homens negros liderando iniciativas de comunicação: 40% (total de pretos e pardos), à frente de homens brancos (31%). A soma de mulheres pretas e pardas (15%) também é maior que o número de mulheres brancas (6%) na liderança. O cenário visto na imprensa tradicional, portanto, não se repete nas iniciativas locais mapeadas, como avalia o estudo da <a href="https://www.abraji.org.br/publicacoes/veja-pesquisa-sobre-presenca-majoritaria-de-brancos-no-comando-das-redacoes">Reuters Institute for the Study of Journalism</a>, que mostrou que, enquanto cerca de 57% dos brasileiros se declaram pretos e pardos, nenhum negro lidera os maiores jornais, portais e emissoras do país.</p>
+
+<p><img src="/imagens/graf8.png" alt="Gráfico 8" /></p>
+
+<h2 id="perfil-profissional-dos-responsáveis-pelos-veículos">Perfil profissional dos responsáveis pelos veículos</h2>
+
+<p>Quase metade das iniciativas mapeadas (99 das 140 responderam a essa pergunta) são conduzidas por jornalistas formados (43%), conforme mostra o gráfico abaixo. A outra parte é dividida entre comunicadores populares (27%), lideranças comunitárias (11%), ativistas (10%), estudantes de jornalismo (5%) e outros (3%).</p>
+
+<p><img src="/imagens/graf9.png" alt="Gráfico 9" /></p>
+
+<h2 id="iniciativas-por-segmento-principal-e-formatos">Iniciativas por segmento principal e formatos</h2>
+
+<p>O digital ajudou a democratizar as iniciativas de comunicação – sobretudo em regiões periféricas. Do total de iniciativas mapeadas, 75,71% utilizam plataformas digitais, como perfis em redes sociais, sites e blogs, como segmento principal de atuação. Em seguida estão as iniciativas impressas (12,86%) e as rádios (por onda) (10,71%).</p>
+
+<p><img src="/imagens/graf10.png" alt="Gráfico 10" /></p>
+
+<p>Quando olhamos para o formato do produto, a presença nas redes sociais com perfis, páginas ou grupos são as principais estratégias para a distribuição dos conteúdos jornalísticos nas áreas periféricas mapeadas na Região Metropolitana de São Paulo. As outras três principais formas de distribuição também estão relacionadas às plataformas Web.</p>
+
+<p><img src="/imagens/graf11.png" alt="Gráfico 11" /></p>
+
+<p>Outras estratégias são complementadas por diferentes formas de distribuição do conteúdo, que acontecem simultaneamente às iniciativas principais. Outras estratégias, como uso de aplicativos de celular, cartazes e panfletos, também foram identificadas.</p>
+
+<h2 id="cobertura-sobre-cultura">Cobertura sobre cultura</h2>
+
+<p>Cultura é a terceira temática (5%) mais coberta pelos veículos, atrás apenas de Cotidiano (75%) e ações sociais (10%). E 68,7% das iniciativas cobrem a câmara municipal.</p>
+
+<p>Das 140 iniciativas mapeadas, 111 (96,40%) fazem cobertura de temas relacionados à cultura local. A cobertura de músicos locais, agenda cultural e festivais são os tópicos mais cobertos.</p>
+
+<h2 id="formas-de-financiamento">Formas de financiamento</h2>
+
+<p>Das 140 iniciativas mapeadas, 108 responderam se conseguem ser financeiramente sustentáveis. Do total de respostas, 62,96% informaram que conseguem recursos de alguma forma, enquanto 37,04% produzem conteúdo sem qualquer incentivo financeiro externo, muitas vezes investindo recursos próprios, por exemplo.</p>
+
+<p><img src="/imagens/graf12.png" alt="Gráfico 12" /></p>
+
+<p>Quando olhamos para a principal forma de financiamento das iniciativas, a venda de anúncios ainda é a primeira fonte de geração de renda para as iniciativas locais de comunicação. Entretanto, doações e campanhas de financiamento coletivo também estão entre as alternativas mais adotadas pelas iniciativas locais para subsidiar a produção de conteúdo. Editais de fomento aparecem como quarta forma de apoio financeiro encontrado pelas iniciativas.</p>
+
+<p><img src="/imagens/graf13.png" alt="Gráfico 13" />
+<img src="/imagens/graf14.png" alt="Gráfico 14" /></p>
+
+
+            </div>
+
+        </div>
+
+        <div class="page-footer">
+
+            <div class="banner">
+                <img src="/assets/img/regua_transparente_v2.png" />
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script>
+
+function Copy() {
+  var Url = document.getElementById("url");
+  Url.innerHTML = window.location.href;
+  console.log(Url.innerHTML)
+  Url.select();
+  document.execCommand("copy");
+  console.log('Link Copiado!');
+}
+</script>
+
+<script type="text/javascript" src="/assets/js/jquery.js"></script>
+<script type="text/javascript" src="/assets/js/angular.js"></script>
+<script type="text/javascript" src="/assets/js/app.js"></script>
+
+</body>
+</html>
