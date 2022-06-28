@@ -1,11 +1,11 @@
 - texto: SOBRE
-  link: sobre
+  link: {{ site.baseurl }}/sobre
 
 - texto: EQUIPE
-  link: equipe
+  link: {{ site.baseurl }}/equipe
 
 - texto: RELATÓRIO
-  link: relatorio
+  link: {{ site.baseurl }}/relatorio
 
 - texto: FORMULÁRIO
   link: https://docs.google.com/forms/d/e/1FAIpQLSdSZOlyukqD1guKEYZ6qw4pd3hRNuIHrrnAEn1eVAXG_6HnUg/viewform
