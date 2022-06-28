@@ -113,3 +113,6 @@ Quando olhamos para a principal forma de financiamento das iniciativas, a venda 
 A formatação com maior ocorrência entre as equipes é de 2 a 5 colaboradores (47%) e, em segundo lugar, estão as iniciativas que atuam apenas com o próprio fundador/a, representando 21% do total, como demonstrado no gráfico. Mais de 70% dos respondentes afirmaram trabalhar com voluntariado, em especial nas iniciativas que estão na faixa entre 2 e 5 colaboradores.
 
 Outro dado relevante é que 32,6% afirmaram possuir algum processo formativo que oferecem para a comunidade onde atuam.
+
+![Gráfico 15]({{site.baseurl}}/imagens/graf15.png)
+
