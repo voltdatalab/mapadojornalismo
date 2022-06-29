@@ -25,6 +25,10 @@ A metodologia de levantamento acontece em três etapas:
 
 ---
 
+
+##Área de abrangência
+O mapeamento contemplou veículos e canais de difusão cultural nos bairros e periferias da capital paulista e dos 38 municípios que compõem a região metropolitana de São Paulo: Caieiras, Cajamar, Francisco Morato, Franco da Rocha e Mairiporã (norte); Arujá, Biritiba-Mirim, Ferraz de Vasconcelos, Guararema, Guarulhos, Itaquaquecetuba, Mogi das Cruzes, Poá, Salesópolis, Santa Isabel e Suzano (leste); Diadema, Mauá, Ribeirão Pires, Rio Grande da Serra, Santo André, São Bernardo do Campo e São Caetano do Sul (sudeste); Cotia, Embu das Artes, Embu-Guaçu, Itapecerica da Serra, Juquitiba, São Lourenço da Serra, Taboão da Serra e Vargem Grande Paulista (sudoeste); Barueri, Carapicuíba, Itapevi, Jandira, Osasco, Pirapora do Bom Jesus e Santana de Parnaíba (oeste).
+
 ## ANÁLISE DOS DADOS
 
 ![Gráfico 1]({{site.baseurl}}/imagens/graf1.png)
@@ -115,6 +119,5 @@ A formatação com maior ocorrência entre as equipes é de 2 a 5 colaboradores 
 Outro dado relevante é que 32,6% afirmaram possuir algum processo formativo que oferecem para a comunidade onde atuam.
 
 ![Gráfico 15]({{site.baseurl}}/imagens/graf15.png)
-
 <iframe title="Número de colaboradores" aria-label="Pie Chart" id="datawrapper-chart-ECFsQ" src="https://datawrapper.dwcdn.net/ECFsQ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="563"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
