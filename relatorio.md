@@ -115,7 +115,5 @@ A formatação com maior ocorrência entre as equipes é de 2 a 5 colaboradores 
 Outro dado relevante é que 32,6% afirmaram possuir algum processo formativo que oferecem para a comunidade onde atuam.
 
 ![Gráfico 15]({{site.baseurl}}/imagens/graf15.png)
-
 <iframe title="Número de colaboradores" aria-label="Pie Chart" id="datawrapper-chart-ECFsQ" src="https://datawrapper.dwcdn.net/ECFsQ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="563"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
- 
