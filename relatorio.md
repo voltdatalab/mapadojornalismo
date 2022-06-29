@@ -25,6 +25,10 @@ A metodologia de levantamento acontece em três etapas:
 
 ---
 
+
+##Área de abrangência
+O mapeamento contemplou veículos e canais de difusão cultural nos bairros e periferias da capital paulista e dos 38 municípios que compõem a região metropolitana de São Paulo: Caieiras, Cajamar, Francisco Morato, Franco da Rocha e Mairiporã (norte); Arujá, Biritiba-Mirim, Ferraz de Vasconcelos, Guararema, Guarulhos, Itaquaquecetuba, Mogi das Cruzes, Poá, Salesópolis, Santa Isabel e Suzano (leste); Diadema, Mauá, Ribeirão Pires, Rio Grande da Serra, Santo André, São Bernardo do Campo e São Caetano do Sul (sudeste); Cotia, Embu das Artes, Embu-Guaçu, Itapecerica da Serra, Juquitiba, São Lourenço da Serra, Taboão da Serra e Vargem Grande Paulista (sudoeste); Barueri, Carapicuíba, Itapevi, Jandira, Osasco, Pirapora do Bom Jesus e Santana de Parnaíba (oeste).
+
 ## ANÁLISE DOS DADOS
 
 ![Gráfico 1]({{site.baseurl}}/imagens/graf1.png)
