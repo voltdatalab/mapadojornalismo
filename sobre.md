@@ -27,8 +27,3 @@ O jornalismo local produzido por comunicadores, comunicadoras e jornalistas das 
 Esse tipo de jornalismo, que algumas vezes é invisibilizado e até colocado em dúvida, é capaz de compreender as necessidades dos moradores e moradoras de uma maneira única. Afinal, quem se propõe a atuar nesse trabalho quase sempre é também um integrante da comunidade, então sabe e sente quais as necessidades do público dali. Dessa maneira, produz notícias com a certeza de sua relevância. O comunicador, comunicadora e jornalista periférico não são apenas “narradores de fatos”, muitas vezes eles também são público, fontes ou personagens das próprias histórias.
 
 E é por isso que saber quem são e como atuam essas iniciativas é de extrema importância. Assim, podemos fortalecer esse trabalho, que também é uma disputa na criação de um jornalismo mais plural e diverso.
-
-
-## Área de abrangência
-
-O mapeamento contemplou veículos e canais de difusão cultural nos bairros e periferias da capital paulista e dos 38 municípios que compõem a região metropolitana de São Paulo: Caieiras, Cajamar, Francisco Morato, Franco da Rocha e Mairiporã (norte); Arujá, Biritiba-Mirim, Ferraz de Vasconcelos, Guararema, Guarulhos, Itaquaquecetuba, Mogi das Cruzes, Poá, Salesópolis, Santa Isabel e Suzano (leste); Diadema, Mauá, Ribeirão Pires, Rio Grande da Serra, Santo André, São Bernardo do Campo e São Caetano do Sul (sudeste); Cotia, Embu das Artes, Embu-Guaçu, Itapecerica da Serra, Juquitiba, São Lourenço da Serra, Taboão da Serra e Vargem Grande Paulista (sudoeste); Barueri, Carapicuíba, Itapevi, Jandira, Osasco, Pirapora do Bom Jesus e Santana de Parnaíba (oeste).
