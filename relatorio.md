@@ -121,3 +121,42 @@ Outro dado relevante é que 32,6% afirmaram possuir algum processo formativo que
 
 <iframe title="Número de colaboradores" aria-label="Pie Chart" id="datawrapper-chart-ECFsQ" src="https://datawrapper.dwcdn.net/ECFsQ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="563"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
+
+
+
+## CONCLUSÃO
+
+O que descobrimos durante o mapeamento?
+
+Este mapeamento revela a consolidação de um movimento importante de diversidade na cobertura local e hiperlocal em São Paulo e região Metropolitana. Para quem atua na área, não chega a ser novidade, mas é importante poder olhar, a partir dos dados, que o jornalismo nas regiões periféricas desses 39 municípios está sendo liderado, majoritariamente, por pessoas negras – ainda que homens em boa parte.
+
+Para a pesquisadora Ana Cristina da Silva Morais, moradora do Capão Redondo, o conceito de periferia, no entanto – termo usado para designar não apenas uma região geográfica, mas também bairros vulneráveis –, não fica tão evidente quando aplicado no contexto de um município menor, onde as questões territoriais e de classe são mais complexas. Por isso também, todo o trabalho de pesquisa levou em consideração não só a relação da mídia com o espaço territorial em que está inserida, mas também com as identidades locais.
+
+Todo o levantamento foi feito de maneira virtual e durante a pandemia, por isso, um dos principais desafios das pesquisadoras foi identificar veículos locais que usam as redes sociais como principal, e, muitas vezes, único canal de difusão dos seus conteúdos. Para a pesquisadora Ariane Costa Gomes, moradora de Osasco, apesar do grande número de páginas que se identificam como noticiosas, não são muitas as que se propõem a produzir notícias locais. Entretanto, aquelas que se comprometem com o jornalismo local, atuam a partir de pautas sugeridas pela própria comunidade, o que demonstra a relação de proximidade com o público.
+
+Também em termos de cobertura, fica evidente o protagonismo dessas iniciativas no registro de memória cultural e serviço ao público que possuem nos territórios. Mais de 96% delas atuam divulgando iniciativas culturais em seus bairros e comunidades. Ou seja, garantindo uma formação de público importante para a área.
+
+Outro dado importante é o espaço que doações e campanhas de financiamento têm ganhado como alternativa de financiamento à publicidade. Juntas, representam mais de 25% da principal forma de sustentabilidade das organizações. Segundo a pesquisadora Katia Flora dos Reis, moradora de São Bernardo do Campo, isso pode ser um reflexo dos efeitos econômicos causados pela pandemia da Covid-19, já que alguns estabelecimentos fecharam. Como essa era a principal fonte de renda de muitos dos veículos, impactou diretamente na produção de conteúdo.
+
+Das 470 iniciativas mapeadas na primeira fase, apenas 29% passaram nos nossos critérios de pesquisa. Ou seja, canais cujo foco e trabalho eram trazer informação confiável e de qualidade para o morador de sua região. Isso significa que existe uma demanda enorme por fontes confiáveis de informação local – ao mesmo tempo em que essa demanda está sendo atendida também por pessoas que não estão qualificadas para fazer este trabalho. Isso tem gerado, especialmente nas redes sociais, um alto volume de desinformação. 
+
+Se faz, portanto, necessário, qualificar e prover estrutura para que essas iniciativas possam prosperar e contribuir para a criação de um sistema de informação saudável, que dê às comunidades autonomia e sirva como ferramenta de acesso a serviços, cultura e direitos. 
+Dicas para mapear os veículos de comunicação no seu território
+
+Se você achou esse trabalho importante, você pode contribuir enviando este formulário para iniciativas que você conhece no seu território e que não foram mapeadas ainda. Ou então, buscando você mesmo. Aqui vão algumas dicas:
+
+Busque por CNPJ (no caso de rádios comunitárias legalizadas, por exemplo) : http://servicos.receita.fazenda.gov.br/Servicos/cnpjreva/Cnpjreva_Solicitacao.asp?cnpj=
+Consulte o WHOIS. Você pode indicar nome e CNPJ, ou só endereço. Basta jogar a URL que tiver  ".br".  aqui https://registro.br/tecnologia/ferramentas/whois/
+Faça buscas nas redes sociais usando como palavra-chave ou hashtag o nome do seu município ou bairro;
+Consulte o Atlas da Notícia
+Use a ferramenta de notícias do Google para encontrar conteúdos produzidos por veículos locais;
+Use busca avançada do Google, Facebook, Twitter
+Pesquise os links dos sites mapeados na ferramenta DoMainBigData para descobrir o contato dos proprietários dos domínios. 
+Para ver a audiência de um site, baixe o Similar Web, uma extensão do Chrome que te mostra o total de visitantes. Usar o parâmetro visitantes por mês. 
+Procure nas redes sociais páginas de associação de moradores e veja se há compartilhamento de notícias produzidas por veículos locais;
+Converse com lideranças comunitárias, com integrantes de movimentos sociais e vereadores sobre sugestões de iniciativas de comunicação;
+Quando encontrar um veículo local, verifique se o conteúdo publicado é noticioso e se foi produzido pelo próprio veículo;
+
+## AGRADECIMENTOS
+
+Agradecemos a todos os 140 veículos que participaram da nossa pesquisa enviando informações importantes sobre sua atuação, cotidiano e desafios. À equipe de pesquisadoras e coordenação do projeto, à Secretaria de Cultura de São Paulo a aos financiadores do projeto :) 
