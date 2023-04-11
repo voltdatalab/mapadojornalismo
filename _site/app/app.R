@@ -8,8 +8,8 @@ library(stringr)
     
     dados <- reactive({
       
-      main_table <- read.csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vSZXgj_ZMu6Eu-HCgwYcWf74-8qBNMNSVKNuf-chwxlGZ3dq7EeVfNAhNsyaRGLjovCkbEIBUpoGv50/pub?gid=0&single=true&output=csv", header = T)
-      
+      # main_table <- read.csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vSZXgj_ZMu6Eu-HCgwYcWf74-8qBNMNSVKNuf-chwxlGZ3dq7EeVfNAhNsyaRGLjovCkbEIBUpoGv50/pub?gid=0&single=true&output=csv", header = T)
+
       if (input$cobre_cultura == "TRUE") {
       main_table <- main_table %>%
         filter(cobre_cultura == "sim")
