@@ -6,6 +6,11 @@
 
 - texto: RELATÓRIO
   link: relatorio
+  -- texto: RELATÓRIOS
+  -link: relatorio-2022
+
+- texto: RELATÓRIOS
+  link: relatorios
 
 - texto: FORMULÁRIO 
   link: formulario
