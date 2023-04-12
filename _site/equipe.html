@@ -27,7 +27,37 @@
     </script>
 </head>
 <body>
-
+    <style>
+        .mainmenubtn {
+            background-color: skyblue;
+            color: white;
+            border: none;
+            cursor: pointer;
+            padding:20px;
+            margin-top:20px;
+        }
+        .mainmenubtn:hover {
+            background-color: blue;
+            }
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+        .dropdown-child {
+            display: none;
+            background-color: skyblue;
+            min-width: 200px;
+        }
+        .dropdown-child a {
+            color: blue;
+            padding: 20px;
+            text-decoration: none;
+            display: block;
+        }
+        .dropdown:hover .dropdown-child {
+            display: block;
+        }
+        </style>
 <div class="page-news">
 
     <div class="container">
@@ -80,7 +110,13 @@
             <a href="/relatorio"> RELATÓRIO </a>
         </div>
 
-      
+        <div class="dropdown item">
+            <button class="mainmenubtn">RELATÓRIOS</button>
+            <div class="dropdown-child">
+              <a href="/relatorio-2022">2022</a>
+              <a href="/relatorio-2023">2023</a>
+            </div>
+        </div>      
 
         <div class="item">
             <a href="/https://docs.google.com/forms/d/e/1FAIpQLSdSZOlyukqD1guKEYZ6qw4pd3hRNuIHrrnAEn1eVAXG_6HnUg/viewform"> FORMULÁRIO </a>
