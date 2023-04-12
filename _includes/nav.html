@@ -1,14 +1,12 @@
 <style>
     .mainmenubtn {
-        background-color: skyblue;
         color: white;
         border: none;
         cursor: pointer;
-        padding:20px;
-        margin-top:20px;
     }
     .mainmenubtn:hover {
-        background-color: blue;
+        background-color: transparent;
+        text-decoration: underline;
         }
     .dropdown {
         position: relative;
@@ -16,14 +14,16 @@
     }
     .dropdown-child {
         display: none;
-        background-color: skyblue;
         min-width: 200px;
     }
     .dropdown-child a {
-        color: blue;
         padding: 20px;
         text-decoration: none;
         display: block;
+        display: inline;
+        font-size: 0.84em;
+        text-align: center;
+        color: #fff;
     }
     .dropdown:hover .dropdown-child {
         display: block;
