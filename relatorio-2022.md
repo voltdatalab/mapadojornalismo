@@ -8,72 +8,11 @@ imagem_destaque: assets/img/destaque_mapa.png
 ---
 
 
-<script src="https://cdn.jsdelivr.net/npm/showdown/dist/showdown.min.js"></script>
-
-
 <style>
 img {
     max-width: 90%;
 }
-
-.tabs {
-  display: flex;
-  flex-direction: column;
-}
-
-.tab-labels {
-  display: flex;
-  justify-content: space-evenly;
-  background-color: #f2f2f2;
-  padding: 10px;
-}
-
-.tab-contents {
-  display: flex;
-  flex-direction: column;
-  margin-top: 20px;
-}
-
-.tabs input[type="radio"] {
-  display: none;
-}
-
-.tabs label {
-  cursor: pointer;
-  font-weight: bold;
-}
-
-.tabs .tab-content {
-  display: none;
-  padding: 10px;
-  position: absolute;
-  top: 50px;
-}
-
-.tabs input[type="radio"]:checked + .tab-labels label {
-  background-color: #ddd;
-}
-
-#tab1:checked ~ .tab-contents #content1,
-#tab2:checked ~ .tab-contents #content2 {
-  display: contents;
-}
-
 </style>
-
-<div class="tabs">
-  <input type="radio" name="tab" id="tab1" checked>
-  <input type="radio" name="tab" id="tab2">
-  
-  <div class="tab-labels">
-    <label for="tab1">Relatório 2022</label>
-    <label for="tab2">Relatório 2023</label>
-  </div>
-
-  <div class="tab-contents">
-    <div class="tab-content" id="content1">
-
-<div id="markdown-content">
 
 ## METODOLOGIA
 
@@ -222,32 +161,3 @@ Se você achou esse trabalho importante, você pode contribuir enviando este for
 ## AGRADECIMENTOS
 
 Agradecemos a todos os 140 veículos que participaram da nossa pesquisa enviando informações importantes sobre sua atuação, cotidiano e desafios. À equipe de pesquisadoras e coordenação do projeto, à Secretaria de Cultura de São Paulo a aos financiadores do projeto :) 
-
-</div>
-</div>
-
-<div class="tab-content" id="content2">
-
-
-
-
-</div>
-</div>
-
-
-<script>
-  // cria uma instância do conversor showdown
-  var converter = new showdown.Converter();
-
-  // carrega o conteúdo do arquivo .md
-  fetch('relatorio-2022.md')
-    .then(response => response.text())
-    .then(markdown => {
-      // converte o conteúdo Markdown para HTML
-      var html = converter.makeHtml(markdown);
-
-      // exibe o HTML resultante no elemento #markdown-content
-      var markdownContent = document.querySelector('#markdown-content');
-      markdownContent.innerHTML = html;
-    });
-</script>
