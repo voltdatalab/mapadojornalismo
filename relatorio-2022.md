@@ -6,7 +6,10 @@ autores: Katia Flora (reportagem) / Gisele Alexandre (edição)
 data: 03/03/2021
 imagem_destaque: assets/img/destaque_mapa.png
 ---
-<script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/8.4.0/markdown-it.js"></script>
+
+
+<script src="https://cdn.jsdelivr.net/npm/showdown/dist/showdown.min.js"></script>
+
 
 <style>
 img {
@@ -70,7 +73,7 @@ img {
   <div class="tab-contents">
     <div class="tab-content" id="content1">
 
-
+<div id="markdown-content">
 ## METODOLOGIA
 
 A metodologia de levantamento acontece em três etapas:
@@ -220,7 +223,7 @@ Se você achou esse trabalho importante, você pode contribuir enviando este for
 Agradecemos a todos os 140 veículos que participaram da nossa pesquisa enviando informações importantes sobre sua atuação, cotidiano e desafios. À equipe de pesquisadoras e coordenação do projeto, à Secretaria de Cultura de São Paulo a aos financiadores do projeto :) 
 
 </div>
-
+</div>
 
 <div class="tab-content" id="content2">
 
@@ -229,3 +232,21 @@ Agradecemos a todos os 140 veículos que participaram da nossa pesquisa enviando
 
 </div>
 </div>
+
+
+<script>
+  // cria uma instância do conversor showdown
+  var converter = new showdown.Converter();
+
+  // carrega o conteúdo do arquivo .md
+  fetch('seu-arquivo.md')
+    .then(response => response.text())
+    .then(markdown => {
+      // converte o conteúdo Markdown para HTML
+      var html = converter.makeHtml(markdown);
+
+      // exibe o HTML resultante no elemento #markdown-content
+      var markdownContent = document.querySelector('#markdown-content');
+      markdownContent.innerHTML = html;
+    });
+</script>
