@@ -6,6 +6,7 @@ autores: Katia Flora (reportagem) / Gisele Alexandre (edição)
 data: 03/03/2021
 imagem_destaque: assets/img/destaque_mapa.png
 ---
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
 <style>
 img {
@@ -69,6 +70,7 @@ img {
   <div class="tab-contents">
     <div class="tab-content" id="content1">
 
+<div id="conteudo-markdown">
 
 ## METODOLOGIA
 
@@ -220,6 +222,8 @@ Agradecemos a todos os 140 veículos que participaram da nossa pesquisa enviando
 
 </div>
 
+</div>
+
 <div class="tab-content" id="content2">
 
 
@@ -227,3 +231,20 @@ Agradecemos a todos os 140 veículos que participaram da nossa pesquisa enviando
 
 </div>
 </div>
+<script>
+const http = require('http');
+const fs = require('fs');
+const marked = require('marked');
+
+http.createServer((req, res) => {
+  fs.readFile('arquivo.md', (err, data) => {
+    if (err) throw err;
+    const markdown = data.toString();
+    const html = marked(markdown);
+    res.writeHead(200, {'Content-Type': 'text/html'});
+    res.write(`<div id="conteudo-markdown">${html}</div>`);
+    res.end();
+  });
+}).listen(8080);
+
+  </script>
