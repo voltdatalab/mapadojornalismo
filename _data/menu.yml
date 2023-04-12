@@ -4,12 +4,5 @@
 - texto: EQUIPE
   link:  equipe
 
-- texto: RELATÓRIO
-  link: relatorio
-  submenu:
-  - texto: RELATÓRIO 2022
-    link: relatorio-2022
-
-
 - texto: FORMULÁRIO 
   link: formulario
