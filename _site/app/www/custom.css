@@ -255,13 +255,7 @@ input[type="radio"]:disabled {
     border-bottom: 1px solid #ffffff0d;
 }
 
-.page-menu .content .menu div:nth-of-type(3) {
-order: 2;
-}
 
-.page-menu .content .menu div:nth-of-type(4) {
-order: 1;
-}
 
 .page-menu .content .menu .item{
     width: 33.33%;
