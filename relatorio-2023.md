@@ -206,15 +206,16 @@ Outro critério utilizado na metodologia para elegibilidade na etapa de aprofund
 
 Nossa metodologia se baseou nas divisões geográficas regionais (Norte e Centro-Oeste), depois nas unidades federativas de cada uma (totalizando 10 estados mais o Distrito Federal) e, então, concentrou-se nas capitais e regiões metropolitanas. Na região Norte, o estado com maior quantidade de veículos e iniciativas mapeadas foi Tocantins, com 43. No Centro-Oeste foi Goiás com 37.
 
+![Gráfico 01](/imagens/relatorio2023/grafico_01.png)
 
-![Gráfico](Aspose.Words.9085721b-2887-4e5c-b7bd-25ca57f0521c.001.png)
 
 Mesmo nas regiões metropolitanas, onde há a influência econômica e política das capitais, observamos vácuos informacionais significativos. Ou seja, cidades onde não foi localizada nenhuma iniciativa sediada no território. Geralmente, o que ocorre é a cobertura realizada por veículos sediados nas capitais com algum conteúdo do “interior”. 
 
 Nestes casos, tomamos a decisão metodológica de indicar tais veículos/iniciativas no **Mapa**. Em cada um deles, pesquisamos conteúdo dos últimos dois anos e de interesse público referente ao município em questão, caso fosse encontrado conteúdo elegível, então duplicamos o veículo/iniciativa, registrando-o na área de cobertura do município, mesmo que sua sede seja na capital. 
 
-Esta decisão foi necessária para pontuar que, entre a localização dos acontecimentos e os meios de comunicação, há um ecossistema midiático de escala mais próxima do que as redes regionais/nacionais por onde a população se informa sobre o que ocorre localmente. Ainda que não seja o ideal em termos de jornalismo local, é o possível. Mesmo assim, muitos municípios ficaram sem nenhum veículo ou iniciativa mapeada.      ![Gráfico](Aspose.Words.9085721b-2887-4e5c-b7bd-25ca57f0521c.002.png)
+Esta decisão foi necessária para pontuar que, entre a localização dos acontecimentos e os meios de comunicação, há um ecossistema midiático de escala mais próxima do que as redes regionais/nacionais por onde a população se informa sobre o que ocorre localmente. Ainda que não seja o ideal em termos de jornalismo local, é o possível. Mesmo assim, muitos municípios ficaram sem nenhum veículo ou iniciativa mapeada.     
 
+![Gráfico 02](/imagens/relatorio2023/grafico_02.png)
 
 ## Perfil étnico racial dos responsáveis pelos veículos
 
@@ -224,13 +225,12 @@ Dos outros 137 veículos/iniciativas nas regiões Norte e Centro-Oeste com dados
 
 Esse cenário mostra que a diversidade étnico-racial ainda é um fator a ser alcançado na liderança de veículos e iniciativas de comunicação. De acordo com [dados demográficos](https://sidra.ibge.gov.br/tabela/2094#/n1/all/n2/all/n3/all/v/1000093/p/last%201/c86/allxt/c133/0/d/v1000093%201/l/v,p+c86,t+c133/resultado) do Censo do IBGE, por exemplo, pardos são a maioria em cor/raça tanto a região Norte quanto a Centro-Oeste, porém são as pessoas brancas que chefiam/lideram quase metade das iniciativas registradas pelo Mapa.
 
-![Gráfico](Aspose.Words.9085721b-2887-4e5c-b7bd-25ca57f0521c.003.png)
-
+![Gráfico 03](/imagens/relatorio2023/grafico_03.png)
 
 Outra prova de que falta diversidade ainda na comunicação e no jornalismo local de ambas regiões de forma significativa, é que apesar de concentrar as maiores populações indígenas do país, apenas 9 pessoas se autodeclararam indígenas ao **Mapa**, cerca de 6% do total de responsáveis que responderam à pesquisa. 
 
 
-![Gráfico](Aspose.Words.9085721b-2887-4e5c-b7bd-25ca57f0521c.004.png)
+![Gráfico 04](/imagens/relatorio2023/grafico_04.png)
 
 ## Gênero
 
@@ -238,8 +238,7 @@ A desigualdade de gênero é um problema estrutural na nossa sociedade que se ma
 
 Longe de ser uma novidade, os dados referentes às regiões Norte e Centro-Oeste confirmam o cenário relatado por [estudo do Instituto Reuters](https://mediatalks.uol.com.br/2022/03/22/estudo-mostra-baixa-participacao-de-jornalistas-mulheres-no-comando-das-redacoes/) em que os cargos de liderança/chefia em iniciativas jornalísticas no Brasil têm, em média, apenas 7% ocupado por mulheres, com a situação tendo piorado durante a pandemia - em 2021 essa taxa era de 12%.  
 
-![Gráfico](Aspose.Words.9085721b-2887-4e5c-b7bd-25ca57f0521c.005.png)
-
+![Gráfico 05](/imagens/relatorio2023/grafico_05.png)
 
 
 ## Formação acadêmica dos responsáveis pelos veículos
@@ -248,7 +247,7 @@ O perfil profissional é majoritariamente de jornalistas, 95 dos 195 veículos/i
 
 
 
-![Gráfico](Aspose.Words.9085721b-2887-4e5c-b7bd-25ca57f0521c.006.png)
+![Gráfico 06](/imagens/relatorio2023/grafico_06.png)
 
 ## Formato e segmentos
 
@@ -259,12 +258,11 @@ A consolidação de veículos digitais como principal segmento de iniciativas jo
 Em segundo lugar, o segmento rádio aparece com 48 veículos/iniciativas registradas porque alcançamos um bom número de rádios comunitárias. Observamos que são essas rádios, que por lei estão vinculadas a organizações da sociedade civil, que ocupam o espaço do jornalismo local nos municípios de pequeno porte. 
 
 
-![Gráfico](Aspose.Words.9085721b-2887-4e5c-b7bd-25ca57f0521c.007.png)
+![Gráfico 07](/imagens/relatorio2023/grafico_07.png)
 
 Quando detalhamos os tipos de formatos para compreender a produção de cada veículo/iniciativa, temos que o principal segmento é site com 129 ocorrências, seguido de redes sociais com 48, e jornais com 30.
 
-` `![Gráfico](Aspose.Words.9085721b-2887-4e5c-b7bd-25ca57f0521c.008.png)
-
+![Gráfico 08](/imagens/relatorio2023/grafico_08.png)
 
 
 
@@ -273,7 +271,7 @@ Quando detalhamos os tipos de formatos para compreender a produção de cada ve�
 
 As notícias e informações distribuídas pelas iniciativas levantadas pelo **Mapa de Jornalismo Local** nas regiões Norte e Centro-Oeste abordam, principalmente, as notícias do cotidiano. De acordo com análise do conteúdo ou resposta do responsável pelo veículo/iniciativa, a pesquisa indica que 61% das iniciativas priorizam os acontecimentos do dia-a-dia na cobertura, 10% focam em ações sociais, e 8% em cultura. Política e segurança pública têm ocorrências significativas, mas as taxas ficam abaixo de 7% da amostra total.
 
-![Gráfico](Aspose.Words.9085721b-2887-4e5c-b7bd-25ca57f0521c.009.png)
+![Gráfico 09](/imagens/relatorio2023/grafico_09.png)
 
 Juntas, as regiões Norte e Centro-Oeste concentram os maiores biomas do país, mas as questões ambientais não são prioridade na produção noticiosa dentre os veículos mapeados, apenas uma iniciativa no Acre. Não quer dizer que não haja cobertura sobre questões socioambientais, apenas que meio ambiente não é a pauta principal.
 
@@ -284,7 +282,7 @@ Nas capitais, as periferias são reportadas como locais violentos e a cobertura 
 
 O financiamento é crucial para consolidação e fortalecimento das iniciativas de jornalismo local e comunicação popular, isto porque são os recursos financeiros que podem garantir toda a operação, desde equipamentos a recursos humanos, mas também a segurança física e digital. Por isso, buscamos coletar dados sobre como veículos/iniciativas angariam recursos, agrupamos várias modalidades em algumas categorias para alcançar a maior diversidade possível no cenário de iniciativas de diferentes naturezas em ambas as regiões. 
 
-![Gráfico](Aspose.Words.9085721b-2887-4e5c-b7bd-25ca57f0521c.010.png)
+![Gráfico 10](/imagens/relatorio2023/grafico_10.png)
 
 A principal forma de financiamento é a venda de publicidade em forma de anúncios, 40% dos veículos/iniciativas dependem exclusivamente desta fonte para manter seus negócios. Anúncios/publicidade ainda aparecem combinados a outras formas de financiamentos de modo secundário. 
 
@@ -298,7 +296,7 @@ O tamanho das equipes que compõem as iniciativas jornalísticas e de comunicaç
 
 No Mapa, buscamos averiguar este dado de duas formas: via informação direta do responsável pelo veículo/iniciativa ou checando o expediente, quando disponível. Assim, temos o seguinte cenário: as redações locais do Norte e do Centro-Oeste são, via de regra, pequenas, 85% delas têm equipes de até 10 pessoas. 
 
-![Gráfico](Aspose.Words.9085721b-2887-4e5c-b7bd-25ca57f0521c.011.png)
+![Gráfico 11](/imagens/relatorio2023/grafico_11.png)
 
 O tamanho de equipe com maior ocorrência é a de 2 a 5 pessoas, com 111 registros. Em segundo lugar, as equipes de 6 a 9 colaboradores têm 55 registros. Equipes mais robustas, compostas por 10 a 29 colaboradores aparecem em terceiro com 31 ocorrências. Das iniciativas com informações mapeadas sobre equipes, 22 delas contam com apenas um colaborador. Ou seja, uma pessoa é responsável por toda operação do veículo/iniciativa. E apenas uma iniciativa foi registrada para equipes com 60 colaboradores ou mais. 
 
