@@ -1,7 +1,7 @@
 library(jsonlite)
 library(tidyverse)
 
-d <- read.csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vTZkC54Oei0Ab_YUbcayci0IHd3TMj5qKcnYFARoyx5l2hpFZRlO1TEV6diR3HE22gm2QT89z4itj2C/pubhtml?gid=993866458&single=true", header = T)
+d <- read.csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vTZkC54Oei0Ab_YUbcayci0IHd3TMj5qKcnYFARoyx5l2hpFZRlO1TEV6diR3HE22gm2QT89z4itj2C/pub?gid=993866458&single=true&output=csv", header = T)
 
 names(d)
 
