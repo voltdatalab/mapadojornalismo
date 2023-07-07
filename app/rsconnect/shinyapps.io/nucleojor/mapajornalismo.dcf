@@ -1,0 +1,13 @@
+name: mapajornalismo
+title: mapajornalismo
+username:
+account: nucleojor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9147824
+bundleId: 7398330
+url: https://nucleojor.shinyapps.io/mapajornalismo/
+when: 1687966095.70782
+lastSyncTime: 1687966095.70784
+asMultiple: FALSE
+asStatic: FALSE
