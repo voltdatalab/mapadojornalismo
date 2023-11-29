@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Relatório - Mapa do Jornalismo Local
-subtitle: no no non on o nono nonono nonononon nonono..
-autores: nononononono nonon nonono nonono
-data: xx/xx/2022
 imagem_destaque: assets/img/destaque_mapa.png
 ---
 
