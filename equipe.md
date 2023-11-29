@@ -4,9 +4,11 @@ layout: page
 
 ## Como este mapa foi feito
 
-Para construir o Mapa do Jornalismo Local, selecionamos jovens pesquisadoras, comunicadoras e moradoras de territórios periféricos para levantarem dados de veículos jornalísticos e de difusão cultural existentes nas bordas dos 39 municípios da região metropolitana e de São Paulo, nosso primeiro levantamento.
+Para construir o Mapa do Jornalismo Local, selecionamos jovens pesquisadoras, comunicadoras e moradoras de territórios periféricos para levantarem dados de veículos jornalísticos e de difusão cultural existentes nas bordas dos 39 municípios da região metropolitana e de São Paulo no nosso primeiro levantamento e dos estados das regiões Norte e Centro-Oeste no nosso segundo levantamento.
 
 Também tivemos o apoio da equipe interna da Énois e dos parceiros do Volt Data Lab na parte de desenvolvimento e programação.
+
+## Equipe Edição SP (2021)
 
 {% for pessoa in site.data.equipe %}
 <br>
