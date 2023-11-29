@@ -11,6 +11,7 @@ Também tivemos o apoio da equipe interna da Énois e dos parceiros do Volt Data
 ## Equipe Edição Norte e Centro-Oeste (2022)
 
 {% for pessoa in site.data.equipe_nco %}
+
 <br>
 #### {{ pessoa.nome }} <span style="font-weight:300;font-size:0.8em"> | <em>{{ pessoa.posicao }}</em></span>
 <p>{{ pessoa.desc }}</p>
@@ -21,6 +22,7 @@ Também tivemos o apoio da equipe interna da Énois e dos parceiros do Volt Data
 ## Equipe Edição SP (2021)
 
 {% for pessoa in site.data.equipe_sp %}
+
 <br>
 #### {{ pessoa.nome }} <span style="font-weight:300;font-size:0.8em"> | <em>{{ pessoa.posicao }}</em></span>
 <p>{{ pessoa.desc }}</p>
