@@ -8,9 +8,19 @@ Para construir o Mapa do Jornalismo Local, selecionamos jovens pesquisadoras, co
 
 Também tivemos o apoio da equipe interna da Énois e dos parceiros do Volt Data Lab na parte de desenvolvimento e programação.
 
+## Equipe Edição Norte e Centro-Oeste (2022)
+
+{% for pessoa in site.data.equipe_nco %}
+<br>
+#### {{ pessoa.nome }} <span style="font-weight:300;font-size:0.8em"> | <em>{{ pessoa.posicao }}</em></span>
+<p>{{ pessoa.desc }}</p>
+
+{% endfor %}
+
+---
 ## Equipe Edição SP (2021)
 
-{% for pessoa in site.data.equipe %}
+{% for pessoa in site.data.equipe_sp %}
 <br>
 #### {{ pessoa.nome }} <span style="font-weight:300;font-size:0.8em"> | <em>{{ pessoa.posicao }}</em></span>
 <p>{{ pessoa.desc }}</p>
