@@ -12,7 +12,7 @@ options(scipen=999)
     dados <- reactive({
       
       #antiga https://docs.google.com/spreadsheets/d/e/2PACX-1vTZkC54Oei0Ab_YUbcayci0IHd3TMj5qKcnYFARoyx5l2hpFZRlO1TEV6diR3HE22gm2QT89z4itj2C/pub?gid=993866458&single=true&output=csv
-      main_table <- read_csv("https://noco.db.enoisconteudo.com.br/api/v1/db/public/shared-view/6770570c-860c-4c7d-b6bf-41130dfecf4e/rows/export/csv", 
+      main_table <- read_csv("https://nocodb.dados.enoisconteudo.com.br/api/v1/db/public/shared-view/6770570c-860c-4c7d-b6bf-41130dfecf4e/rows/export/csv", 
                              col_types = cols(Lat = col_number(), 
                                               Long = col_number()))
       
